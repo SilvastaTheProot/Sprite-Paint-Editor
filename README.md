@@ -1,3 +1,6 @@
+> [!WARNING]
+> **DEPRECATED — archived.** Sprite Paint is now officially part of the main [Luna Advanced Rig Systems Editor](https://github.com/Faolon12/Advanced-Rigs-Casualties-Unknown) repository. All features from this fork (including PR #3) have been integrated upstream. This repository is kept for history only and is no longer maintained.
+
 # Luna Advanced Rig Systems Editor - Casualties Release V0.4 Alpha
 
 A browser-based character rig editor for **Luna Advanced Rig Systems**, the BepInEx mod for *Casualties: Unknown* (get the mod on Nexus).
